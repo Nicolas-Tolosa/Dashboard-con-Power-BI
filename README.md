@@ -6,3 +6,5 @@ Proyecto realizado para la asignatura de Business Intellligence en 2021 donde fu
 El proyecto consistía en realizar consultas SQL utiles para responder preguntas de negocio, crear un dashboard interactivo, generar una meta y finalmente sacar conclusiones generales del trabajo.
 
 Para esto fueron recopilados datos desde la base de datos Adventure Works, de la cual se extrajeron tablas relacionales para generar el reporte y las consultas.
+
+![dashboard.jpg](https://raw.githubusercontent.com/Nicolas-Tolosa/Power-BI/main/dashboard.jpg)
